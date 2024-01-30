@@ -24,8 +24,8 @@ home-manager switch --flake .
 ```
 
 ## References
-1. (Zero to Nix)[https://zero-to-nix.com/]
-1. (Home Manager Options)[https://rycee.gitlab.io/home-manager/options]
-1. (Managing Dotfiles with Home Manager)[https://www.bekk.christmas/post/2021/16/dotfiles-with-nix-and-home-manager]
-1. (Home Manager Flakes)[https://www.chrisportela.com/posts/home-manager-flake/]
-1. (Nix Flakes)[https://www.tweag.io/blog/2020-05-25-flakes/]
+1. [Zero to Nix](https://zero-to-nix.com/)
+1. [Home Manager Options](https://rycee.gitlab.io/home-manager/options)
+1. [Managing Dotfiles with Home Manager](https://www.bekk.christmas/post/2021/16/dotfiles-with-nix-and-home-manager)
+1. [Home Manager Flakes](https://www.chrisportela.com/posts/home-manager-flake/)
+1. [Nix Flakes](https://www.tweag.io/blog/2020-05-25-flakes/)
